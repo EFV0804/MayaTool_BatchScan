@@ -23,3 +23,7 @@ To run, from a Python console:
         sys.path.append('{location on disk of this module}')
         import maya_single_scan
         maya_single_scan.run({maya_exe_path}, {file_path})
+        
+
+## Credits
+- [MenhirFX](www.menhirfx.com)
